@@ -1,0 +1,7 @@
+D:\Учёба\C#\solar system\solar system\solar system\bin\Debug\solar system.exe.config
+D:\Учёба\C#\solar system\solar system\solar system\bin\Debug\solar system.exe
+D:\Учёба\C#\solar system\solar system\solar system\bin\Debug\solar system.pdb
+D:\Учёба\C#\solar system\solar system\solar system\obj\Debug\solar system.csprojAssemblyReference.cache
+D:\Учёба\C#\solar system\solar system\solar system\obj\Debug\solar system.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\solar system\solar system\solar system\obj\Debug\solar system.exe
+D:\Учёба\C#\solar system\solar system\solar system\obj\Debug\solar system.pdb
