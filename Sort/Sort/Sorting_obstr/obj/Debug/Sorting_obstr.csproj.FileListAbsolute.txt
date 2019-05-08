@@ -1,0 +1,7 @@
+D:\Учёба\C#\Level 2\Sort\Sort\Sorting_obstr\obj\Debug\Sorting_obstr.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Level 2\Sort\Sort\Sorting_obstr\bin\Debug\Sorting_obstr.exe.config
+D:\Учёба\C#\Level 2\Sort\Sort\Sorting_obstr\bin\Debug\Sorting_obstr.exe
+D:\Учёба\C#\Level 2\Sort\Sort\Sorting_obstr\bin\Debug\Sorting_obstr.pdb
+D:\Учёба\C#\Level 2\Sort\Sort\Sorting_obstr\obj\Debug\Sorting_obstr.exe
+D:\Учёба\C#\Level 2\Sort\Sort\Sorting_obstr\obj\Debug\Sorting_obstr.pdb
+D:\Учёба\C#\Level 2\Sort\Sort\Sorting_obstr\obj\Debug\Sorting_obstr.csprojAssemblyReference.cache

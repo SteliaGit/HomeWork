@@ -1,0 +1,7 @@
+D:\Учёба\C#\Level 2\Sort\Sort\Sort\bin\Debug\Sort.exe.config
+D:\Учёба\C#\Level 2\Sort\Sort\Sort\bin\Debug\Sort.exe
+D:\Учёба\C#\Level 2\Sort\Sort\Sort\bin\Debug\Sort.pdb
+D:\Учёба\C#\Level 2\Sort\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Level 2\Sort\Sort\Sort\obj\Debug\Sort.exe
+D:\Учёба\C#\Level 2\Sort\Sort\Sort\obj\Debug\Sort.pdb
+D:\Учёба\C#\Level 2\Sort\Sort\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
